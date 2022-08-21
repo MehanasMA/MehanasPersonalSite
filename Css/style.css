@@ -14,7 +14,7 @@ nav .nav-link{
 }
 
 .wrapper{
-  background: url("/imgs/main.jpg") no-repeat center center fixed;
+  background: url("imgs/main.jpg") no-repeat center center fixed;
   margin: 0;
   height: 700px;
   width: 100%;
@@ -40,7 +40,7 @@ nav .navbar-brand{
 }
 
 .book-table{
-  background: url("/imgs/book-table-img.jpg") no-repeat center center fixed;
+  background: url("imgs/book-table-img.jpg") no-repeat center center fixed;
   margin: 0;
   height: 700px;
   -webkit-background-size: cover;
