@@ -1,0 +1,75 @@
+*{
+  margin-left: 0;
+}
+.body{
+  background-color: black;
+}
+
+
+nav .nav-link{
+    color:rgb(245, 238, 238);
+    font-weight: 300;
+    font-size: 20px;
+    text-size-adjust: 20px;
+}
+
+.wrapper{
+  background: url("/imgs/main.jpg") no-repeat center center fixed;
+  margin: 0;
+  height: 700px;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+nav .navbar-brand{
+   color: white;
+   font-size: 30px;
+}
+
+
+.wrapper{
+ padding-top: 258px;
+ 
+}
+.image-text{
+  font-size: 100px;
+}
+
+.book-table{
+  background: url("/imgs/book-table-img.jpg") no-repeat center center fixed;
+  margin: 0;
+  height: 700px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.book-table{
+  padding-top: 200px;
+ 
+ }
+ 
+
+ .table{
+  font-size: 80px;
+ }
+ .events p{
+  margin-left: 600px;
+  margin-bottom: -10px;
+ }
+
+
+
+ .col-md-3:hover img{
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  opacity: 1;
+  background: rgba(0,0,0,0.5);
+
+ }
